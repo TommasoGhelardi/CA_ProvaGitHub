@@ -12,6 +12,8 @@ namespace CA_ProvaGitHub
         {
             Console.WriteLine("Hello World");
             Console.ReadKey();
+
+            //Prova commit
         }
     }
 }
